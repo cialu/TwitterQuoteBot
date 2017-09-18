@@ -1,4 +1,4 @@
-# quotebot
+# Twitter Quote Bot
 A twitter bot that quotes enough
 
 This is a small php script which can be used to create twitter bots that keep quotes from a web source and tweet them.
@@ -10,4 +10,4 @@ It works on OAuth, so no password is needed.
 Here the links:
 https://twitteroauth.com
 https://github.com/abraham/twitteroauth
-https://lucaciavatta.github.io
+https://cialu.net
